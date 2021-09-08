@@ -1,0 +1,7 @@
+.idea/
+.env
+venv/
+*.iml
+
+flask_session/
+__pycache__/

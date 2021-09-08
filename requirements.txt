@@ -1,0 +1,11 @@
+flask
+flask-cors
+flask-session
+Flask-SQLAlchemy
+mysqlclient
+Werkzeug
+simplejson
+python-jose
+requests
+wheel
+gunicorn
